@@ -1,0 +1,36 @@
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+    float: left;
+  }
+  
+  th, td {
+    border: 1px solid #ffffff;
+    padding: 8px;
+    min-width: 150px;
+    text-align: center;
+  }
+
+  thead tr {
+    background-color: #ffffff;
+  }
+
+  .tv-series-header {
+    background-color: #353838;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .avgSeasons {
+    font-size: 18px;
+    background-color: #ffffff;
+    vertical-align: auto;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+  }
